@@ -10,6 +10,6 @@ Me chamo Alan Vargas.
 
 Email: alanvargasenf@gmail.com
 
-LinkedIn: linkedin.com/in/alanvargas04
+[LinkedIn](https://www.linkedin.com/in/alanvargas04/)
 
 Telefone: (21) 99739-2007
